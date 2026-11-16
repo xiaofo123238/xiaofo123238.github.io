@@ -1,0 +1,196 @@
+{
+  "source": "已采集小程序首页源代码中的公开静态资源URL，仅GET图片；未调用业务接口。",
+  "excluded": [
+    "顶部品牌文字图片",
+    "中央呱嗒品牌Logo"
+  ],
+  "assets": [
+    {
+      "file": "home-background.webp",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251024/5bc213d45dc3262914ad672408688ac8mobanback.webp",
+      "position": "首页顶部渐变背景",
+      "size": [
+        750,
+        448
+      ]
+    },
+    {
+      "file": "recommend-background.webp",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251024/8570578ed48f09a883e90eb0940871f8tiaojibacks.webp",
+      "position": "调剂推荐卡背景",
+      "size": [
+        690,
+        322
+      ]
+    },
+    {
+      "file": "arrow-right.webp",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251024/7185afe063833442a943af059db5dea1backjianto.webp",
+      "position": "推荐卡详情箭头",
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "file": "cap-orange.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251025/0efc24e4b24db84198cced73d78be136maozhi.png",
+      "position": "重点推荐学位帽",
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "file": "cap-yellow.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251025/5d42c3348c55f0c3be6263692f9558c0maozhi2.png",
+      "position": "备选推荐学位帽",
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "file": "cap-green.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251025/6d08d48487929a26049834735e700293maozhi3.png",
+      "position": "新增硕士点学位帽",
+      "size": [
+        40,
+        40
+      ]
+    },
+    {
+      "file": "prediction-default.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251117/e5172d2917cbcd96a107870df6c1fd3cnoxx.png",
+      "position": "一志愿预测默认背景（截图状态）",
+      "size": [
+        336,
+        400
+      ]
+    },
+    {
+      "file": "ranking-background.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20260622/ebef54973d275eb8eed0610d5855f1e7sdsdg.png",
+      "position": "估分排名奖杯背景",
+      "size": [
+        334,
+        440
+      ]
+    },
+    {
+      "file": "guidance.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251025/2bd4a01531093e7d4e0d14534718bb12saxsa.png",
+      "position": "复试调剂一对一指导插画",
+      "size": [
+        92,
+        92
+      ]
+    },
+    {
+      "file": "report.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20260331/2464acb3d0a6abbfb4bfbd43082a31b7backs.png",
+      "position": "个性化调剂报告插画",
+      "size": [
+        46,
+        46
+      ]
+    },
+    {
+      "file": "search-adjustment.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251025/c8fc45e3e22e1e40d8d655a0c2d2d8f7chasx.png",
+      "position": "查调剂插画",
+      "size": [
+        92,
+        92
+      ]
+    },
+    {
+      "file": "adjustment-gap.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251025/6c591b860c14eb0c09665f044f5e742arbansxs.png",
+      "position": "调剂差额插画",
+      "size": [
+        92,
+        92
+      ]
+    },
+    {
+      "file": "nav-school-active.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20240805/809bb5ecbecea3aa68fac067bcdbe288zhixiao2.png",
+      "position": "初试择校导航激活图标",
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "file": "nav-school.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20240805/6243530fc882191ec890492e90fb8cbezhixiao1.png",
+      "position": "初试择校导航图标（截图）",
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "file": "nav-adjustment-active.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20240805/6a5ef66d125adb2db205d581f601b0a9tiaojie2.png",
+      "position": "复试调剂导航图标（截图激活）",
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "file": "nav-adjustment.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20240805/2f6dccbe6fc5d6c390a2103d5542b942tiaojie1.png",
+      "position": "复试调剂导航未激活图标",
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "file": "nav-message-active.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20251107/d623b682386de3d3d54b1ab61b92e75asdax.png",
+      "position": "消息导航激活图标",
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "file": "nav-message.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20250901/c6a97f47a5240174ee2e67ce5822176bxuanzosx.png",
+      "position": "消息导航图标（截图）",
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "file": "nav-user-active.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20240805/9ac75cb5a03f00a1776626ab75976ee5my2.png",
+      "position": "我的导航激活图标",
+      "size": [
+        56,
+        56
+      ]
+    },
+    {
+      "file": "nav-user.png",
+      "url": "https://file.ggyx666.com/ggyx_uploads/20240805/5e9143a726905b2cecf643eceff246d5my1.png",
+      "position": "我的导航图标（截图）",
+      "size": [
+        56,
+        56
+      ]
+    }
+  ],
+  "referenceScreenshot": "outputs/20261116_guagua_reverse/screenshots/02-adjust-home.png",
+  "sourceModules": [
+    "outputs/20261116_guagua_reverse/extracted/wxe6b7cdb4a93bbcc2/__APP__/chunk_24.appservice.js",
+    "outputs/20261116_guagua_reverse/extracted/wxe6b7cdb4a93bbcc2/__APP__/chunk_24.webview.js",
+    "outputs/20261116_guagua_reverse/extracted/wxe6b7cdb4a93bbcc2/__APP__/chunk_1.appservice.js"
+  ],
+  "verification": "20项静态图片全部成功下载并读取尺寸；已目视核对首页背景、推荐背景、两张大卡背景、4个小卡插画、4个截图导航图标，均无对方品牌文字或中央Logo。"
+}
